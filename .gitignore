@@ -1,1 +1,6 @@
 /data
+.DS_Store
+/img
+.OTTER_LOG
+.ipynb_checkpoints/
+requirements.txt
